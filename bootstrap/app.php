@@ -19,7 +19,7 @@ $app = new Illuminate\Foundation\Application(
 |--------------------------------------------------------------------------
 | Bind Important Interfaces
 |--------------------------------------------------------------------------
-|
+| make some change
 | Next, we need to bind some important interfaces into the container so
 | we will be
 able to resTolve them when needed. The kernels serve the
